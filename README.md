@@ -52,4 +52,4 @@ This project leverages a combination of computer vision and natural language pro
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/kshitijchavhan24/Vision-Based-Web-Content-Extraction.git
+   git clone https://github.com/anjanikumar21/Vision-Based-Web-Content-Extraction.git
